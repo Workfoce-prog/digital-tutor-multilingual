@@ -1,2 +1,11 @@
-# digital-tutor-multilingual
-An AI-powered learning assistant that helps students master math concepts across algebra, geometry, statistics, and more. Includes multilingual tutoring, PDF worksheet generation, and a teacher dashboard for tracking engagement.
+# Digital Tutor Multilingual Demo
+
+Supports auto-detection and translation for French, Spanish, Arabic, and Swahili.
+- Algebra, Quadratics, Radicals, Exponentials, Stats, Data Science
+- No OpenAI key required
+
+Run:
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
